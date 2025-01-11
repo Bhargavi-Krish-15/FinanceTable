@@ -43,25 +43,40 @@ Api End Point: https://financialmodelingprep.com/api/v3/income-statement/AAPL?pe
 
 ##App Design:
 
-    ![Home Page](screenshots/image_default.png "Screenshot of Home Page")
+    [Home Page]("Screenshot of Home Page")
+      
+<img width="1198" alt="Appic Inc  Financial Data" src="https://github.com/user-attachments/assets/fead54c0-79bf-47a5-be75-096a70c3fecb" />
+
+    [Filter - Year]("Filter results with Year")
+
+<img width="1201" alt="Pasted Graphic 2" src="https://github.com/user-attachments/assets/362d27bc-69a0-429a-9e73-101a72f30c98" />
 
 
-    ![Filter - Year](screenshots/year_filter.png "Filter results with Year")
+    [Filter - Revenue]("Filter results with Revenue")
+    
+<img width="1208" alt="Pasted Graphic" src="https://github.com/user-attachments/assets/e564468e-dfad-4462-95f0-91442bc61bd1" />
 
 
-    ![Filter - Revenue](screenshots/revenue_filter.png "Filter results with Revenue")
+    [Filter - Net Income]("Filter results with NetIncome")
 
+<img width="1198" alt="Pasted Graphic 3" src="https://github.com/user-attachments/assets/2eb227fe-c418-456d-ba35-65d93a402b8e" />
 
-    ![Filter - Net Income](screenshots/net_income_filter.png "Filter results with NetIncome")
+    [Sort - Date]("Sorting the date ascending")
 
+<img width="1210" alt="Pasted Graphic 6" src="https://github.com/user-attachments/assets/7adc84b9-5619-4de8-873c-6f236a589271" />
 
-    ![Sort - Date](screenshots/date_asc_sort.png "Sorting the date ascending")
+    [Sort - Net Income]("Sorting the net Income")
 
+<img width="1197" alt="Apple Inc  Financial Data" src="https://github.com/user-attachments/assets/d48a45db-28d5-4380-abb5-98437ecce762" />
 
-    ![Sort - Net Income](screenshots/net_income_sort.png "Sorting the net Income")
+    [Sort - Revenue]("Sorting the revenue descending order")
 
+<img width="904" alt="revenue_desc_sort" src="https://github.com/user-attachments/assets/6b4d4d88-390b-421b-8167-7eaf57dde325" />
 
-    ![Sort - Revenue](screenshots/revenue_desc_sort.png "Sorting the revenue descending order")
+MOBILE VIEW:
+
+<img width="671" alt="image_mobile_view" src="https://github.com/user-attachments/assets/bb288553-784c-4369-949b-5385e1ecfe3d" />
+
 
 
 ---
