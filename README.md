@@ -10,33 +10,33 @@ Api End Point: https://financialmodelingprep.com/api/v3/income-statement/AAPL?pe
 
 ##Technology Used:
 
-- **Frontend**: React, TailwindCSS
-- **API**: [Financial Modeling Prep](https://financialmodelingprep.com)
-- **Deployment**: GitHub
+- Frontend: React, TailwindCSS
+- API: [Financial Modeling Prep](https://financialmodelingprep.com)
+- Deployment: GitHub, Vercel
 
 ---
 
 ##Features:
 
-1. **Data Fetching**:
+1. Data Fetching:
    - Fetches financial data like revenue, net income, gross profit, etc from the API.
    - Displays the data in a table.
 
-2. **Filtering**:
+2. Filtering:
    - Filter results based on:
-     - **Date Range**: Specify start and end years.
-     - **Revenue Range**: Filter rows by revenue in a user-specified range.
-     - **Net Income Range**: Filter rows by net income in a user-specified range.
+     - Date Range: Specify start and end years.
+     - Revenue Range: Filter rows by revenue in a user-specified range.
+     - Net Income Range: Filter rows by net income in a user-specified range.
 
-3. **Sorting**:
+3. Sorting:
    - Sort data by:
-     - **Date** (ascending/descending).
-     - **Revenue** (ascending/descending).
-     - **Net Income** (ascending/descending).
+     - Date (ascending/descending).
+     - Revenue (ascending/descending).
+     - Net Income (ascending/descending).
 
-4. **Responsive Design**:
+4. Responsive Design:
    - Optimized for both desktop and mobile views.
-   - Styled with **TailwindCSS**.
+   - Styled with TailwindCSS.
 
 
 ---
@@ -81,6 +81,9 @@ MOBILE VIEW:
 
 ---
 
+#Deployed Link:
+
+https://finance-table.vercel.app/
 
 
 
