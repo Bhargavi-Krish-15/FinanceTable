@@ -18,32 +18,17 @@ Api End Point: https://financialmodelingprep.com/api/v3/income-statement/AAPL?pe
 
 ##Features:
 
-<<<<<<< HEAD
-1. **Data Fetching**:
-
-   - Fetches financial data like revenue, net income, gross profit, etc from the API.
-   - Displays the data in a table.
-
-2. **Filtering**:
-
-=======
 1. Data Fetching:
    - Fetches financial data like revenue, net income, gross profit, etc from the API.
    - Displays the data in a table.
 
 2. Filtering:
->>>>>>> 27ac7eab203e7babeb1f3251e4279c9e6c9fd1bc
    - Filter results based on:
      - Date Range: Specify start and end years.
      - Revenue Range: Filter rows by revenue in a user-specified range.
      - Net Income Range: Filter rows by net income in a user-specified range.
 
-<<<<<<< HEAD
-3. **Sorting**:
-
-=======
 3. Sorting:
->>>>>>> 27ac7eab203e7babeb1f3251e4279c9e6c9fd1bc
    - Sort data by:
      - Date (ascending/descending).
      - Revenue (ascending/descending).
@@ -116,8 +101,6 @@ MOBILE VIEW:
 
 
 ---
-<<<<<<< HEAD
-=======
 
 #Deployed Link:
 
@@ -128,4 +111,3 @@ https://finance-table.vercel.app/
 
 
 
->>>>>>> 27ac7eab203e7babeb1f3251e4279c9e6c9fd1bc
